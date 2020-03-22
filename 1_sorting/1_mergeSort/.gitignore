@@ -1,0 +1,4 @@
+!.gitignore
+bin_merge_sort
+merge_sort.o
+main.o
